@@ -1,0 +1,41 @@
+
+:root {
+  font-family: 'DM Sans', sans-serif;
+  color: #f6f0ff;
+  background: #100b20;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+  background: #100b20;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  color: #f6f0ff;
+  background: #100b20;
+}
+
+h1,
+h2,
+h3,
+p {
+  color: inherit;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
